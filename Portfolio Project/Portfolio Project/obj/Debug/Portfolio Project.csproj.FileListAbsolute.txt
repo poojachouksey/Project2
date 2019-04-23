@@ -1,0 +1,10 @@
+C:\Users\PoojaChouksey\Documents\Portfolio data and Project\MyProject\Portfolio Project\Portfolio Project\bin\Debug\Portfolio Project.exe.config
+C:\Users\PoojaChouksey\Documents\Portfolio data and Project\MyProject\Portfolio Project\Portfolio Project\bin\Debug\Portfolio Project.exe
+C:\Users\PoojaChouksey\Documents\Portfolio data and Project\MyProject\Portfolio Project\Portfolio Project\bin\Debug\Portfolio Project.pdb
+C:\Users\PoojaChouksey\Documents\Portfolio data and Project\MyProject\Portfolio Project\Portfolio Project\obj\Debug\Portfolio Project.csprojAssemblyReference.cache
+C:\Users\PoojaChouksey\Documents\Portfolio data and Project\MyProject\Portfolio Project\Portfolio Project\obj\Debug\Portfolio_Project.Form1.resources
+C:\Users\PoojaChouksey\Documents\Portfolio data and Project\MyProject\Portfolio Project\Portfolio Project\obj\Debug\Portfolio_Project.Properties.Resources.resources
+C:\Users\PoojaChouksey\Documents\Portfolio data and Project\MyProject\Portfolio Project\Portfolio Project\obj\Debug\Portfolio Project.csproj.GenerateResource.cache
+C:\Users\PoojaChouksey\Documents\Portfolio data and Project\MyProject\Portfolio Project\Portfolio Project\obj\Debug\Portfolio Project.csproj.CoreCompileInputs.cache
+C:\Users\PoojaChouksey\Documents\Portfolio data and Project\MyProject\Portfolio Project\Portfolio Project\obj\Debug\Portfolio Project.exe
+C:\Users\PoojaChouksey\Documents\Portfolio data and Project\MyProject\Portfolio Project\Portfolio Project\obj\Debug\Portfolio Project.pdb
